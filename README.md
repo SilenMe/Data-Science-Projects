@@ -1,4 +1,4 @@
 # advance-Data-Science-Projects
-the projects are medium to hard range data science projects.
+the repository contains advance data science work.
 
 to know more, read the read.md in the project consisiting folders
